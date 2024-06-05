@@ -5,3 +5,14 @@ table{
     border-style: solid;
     border: 4px;
 }
+thead{
+    background-color: beige;
+    font-size: 18px;
+    text-align: center;
+    border: 2px solid darkblue;
+}
+td{
+    border: 1px;
+    font-family: Verdana;
+    font-size: 15px;
+}
