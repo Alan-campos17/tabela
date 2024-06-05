@@ -6,7 +6,7 @@ table{
     border: 4px;
 }
 thead{
-    background-color: rgb(4, 0, 255);
+    background-color: rgb(0, 0, 0);
     font-size: 18px;
     text-align: center;
     border: 2px solid darkblue;
